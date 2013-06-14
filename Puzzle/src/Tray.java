@@ -19,6 +19,7 @@ public class Tray{
 			}
 		}
 		
+		
 		//initialize the blokc by 
 		/*
 		2 1 0 0
